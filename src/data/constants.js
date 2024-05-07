@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Mukesh017",
   resume:
-    "https://drive.google.com/file/d/1VlCSHRQYmo4_bN1yhaCu5AOnyHiazSVQ/view?usp=drive_link",
+    "https://drive.google.com/file/d/1oBykqN_PcbtR0ZX0Q1TE26X7LLp0Z7MA/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/mukeshkumar017",
   twitter: "https://x.com/17Mukeshkeshri?t=guoBX8KeurlLJZZa7-at_w&s=09",
   insta: "https://www.instagram.com/mukesh.keshri/",
