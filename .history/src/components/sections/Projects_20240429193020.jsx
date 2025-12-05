@@ -104,8 +104,8 @@ const Projects = ({ openModal, setOpenModal }) => {
             marginBottom: "40px",
           }}
         >
-          I have worked on a wide range of projects. From Data Analyst to Machine Learning. 
-          Here are some of my projects.
+          I have worked on a wide range of projects. From web apps to android
+          apps. Here are some of my projects.
         </Desc>
         <ToggleButtonGroup>
           <ToggleButton
@@ -116,17 +116,10 @@ const Projects = ({ openModal, setOpenModal }) => {
           </ToggleButton>
           <Divider />
           <ToggleButton
-            active={toggle === "data analytics"}
-            onClick={() => setToggle("data analytics")}
+            active={toggle === "full stack development"}
+            onClick={() => setToggle("full stack development")}
           >
-            DATA ANALYTICS
-          </ToggleButton>
-          <Divider />
-          <ToggleButton
-            active={toggle === "data science and machine learning"}
-            onClick={() => setToggle("data science and machine learning")}
-          >
-            DATA SCIENCE & ML
+            FULL STACK DEVELOPMENT
           </ToggleButton>
           <Divider />
           <ToggleButton
@@ -134,6 +127,13 @@ const Projects = ({ openModal, setOpenModal }) => {
             onClick={() => setToggle("java & dsa")}
           >
             JAVA & DSA
+          </ToggleButton>
+          <Divider />
+          <ToggleButton
+            active={toggle === "internet of things"}
+            onClick={() => setToggle("internet of things")}
+          >
+            INTERNET of THINGS
           </ToggleButton>
         </ToggleButtonGroup>
         <CardContainer>

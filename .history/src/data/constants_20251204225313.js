@@ -60,7 +60,7 @@ export const skills = [
     skills: [
       {
         name: "Excel",
-        image: "https://images.seeklogo.com/logo-png/26/1/excel-logo-png_seeklogo-266583.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019-present%29.svg",
       },
       {
         name: "Power BI",
@@ -129,7 +129,8 @@ export const experiences = [
     date: "Jan 2023 - Jun 2023",
     desc: "Developed responsive and user-friendly front-end interfaces using modern web technologies and frameworks, ensuring seamless interaction and optimal user experience. Implemented Rest APIs and database management systems to support efficient data retrieval, storage and manipulation, enhancing application functionality and performance. Collaborated within an agile development team to troubleshoot issues, perform code reviews, and iterate on features, fostering a dynamic and collaborative work environment while delivering high-quality software.",
     skills: [
-      "Java",
+      "ReactJS",
+      "JavaScript",
       "HTML",
       "CSS",
       "Rest APIs",
@@ -142,7 +143,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://avatars.githubusercontent.com/u/57554803?v=4",
+    img: "https://www.ksit.ac.in/img/leftlogo.png",
     school: "Kammavari Sangha Institute of Technology, Bangalore",
     date: "Aug 2019 - Jun 2023",
     grade: "7.0 CGPA",
@@ -177,7 +178,7 @@ export const projects = [
     description:
       "End-to-end data analytics project involving data cleaning, transformation, SQL-based modelling, DAX measures, interactive visualizations, and KPI-driven insights. Built a complete Sales Efficiency dashboard to help track revenue, product performance, customer segments, and operational KPIs.",
     image:
-      "https://github.com/Mukesh017/SalesEfficiency_Dashboard/blob/main/Dashboard.png?raw=true",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Ltxftk6gK2oTr2-Z7FLQjNprQO2SU0CLUU&s",
     tags: [
       "Power BI",
       "SQL",
@@ -197,7 +198,7 @@ export const projects = [
     description:
       "A machine learning classification project predicting loan approval decisions using Random Forest. Includes data preprocessing, EDA, feature engineering, data visualization, model training, model evaluation, and deployment-ready structure.",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMmm9kdTw6k77aDcmeWj-CZ66BG_uzHU4pw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdXOJk8rWQ6r02itFvPJPkE5BBa3ygVndNnQ&s",
     tags: [
       "Python",
       "Pandas",
@@ -209,17 +210,29 @@ export const projects = [
       "Random Forest",
       "Model Evaluation"
     ],
-    category: "data science and machine learning",
+    category: "data science",
     github: "https://github.com/Mukesh017/Loan-Approval-Prediction"
   },
   {
     id: 2,
+    title: "Car Rental",
+    date: "Mar 2023 - Apr 2023",
+    description:
+      "Revolutionize car rentals with our Java and MySQL-powered system. Effortlessly manage fleets and bookings with intuitive browsing and secure transactions. Powered by Java and MySQL for robust performance and reliable data handling.",
+    image:
+      "https://assets.materialup.com/uploads/713f0891-789b-4b19-abb3-6af251e049c1/preview.png",
+    tags: ["Java", "Java OOPs", "JDBC", "MySQL"],
+    category: "java & dsa",
+    github: "https://github.com/Mukesh017/Car-Rental-Project"
+  },
+  {
+    id: 3,
     title: "Metro App",
     date: "Dec 2023 - Feb 2024",
     description:
       "Java and MySQL-based metro management application enabling users to plan routes, track schedules, and calculate fares. Designed for efficiency and reliability with strong DSA-based logic.",
     image:
-      "https://cdn.dribbble.com/userupload/16327077/file/original-38a788ec7b2af0b0ea2f758d6b3960e0.png?format=webp&resize=400x300&vertical=center",
+      "https://assets.materialup.com/uploads/3210548e-4ef9-45e0-8f48-13af92a2f795/preview.jpg",
     tags: [
       "Java",
       "Java OOPs",

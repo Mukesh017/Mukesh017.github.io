@@ -219,7 +219,7 @@ export const projects = [
     description:
       "Java and MySQL-based metro management application enabling users to plan routes, track schedules, and calculate fares. Designed for efficiency and reliability with strong DSA-based logic.",
     image:
-      "https://cdn.dribbble.com/userupload/16327077/file/original-38a788ec7b2af0b0ea2f758d6b3960e0.png?format=webp&resize=400x300&vertical=center",
+      "https://assets.materialup.com/uploads/3210548e-4ef9-45e0-8f48-13af92a2f795/preview.jpg",
     tags: [
       "Java",
       "Java OOPs",

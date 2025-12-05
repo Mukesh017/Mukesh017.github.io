@@ -177,7 +177,7 @@ export const projects = [
     description:
       "End-to-end data analytics project involving data cleaning, transformation, SQL-based modelling, DAX measures, interactive visualizations, and KPI-driven insights. Built a complete Sales Efficiency dashboard to help track revenue, product performance, customer segments, and operational KPIs.",
     image:
-      "https://github.com/Mukesh017/SalesEfficiency_Dashboard/blob/main/Dashboard.png?raw=true",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Ltxftk6gK2oTr2-Z7FLQjNprQO2SU0CLUU&s",
     tags: [
       "Power BI",
       "SQL",
@@ -197,7 +197,7 @@ export const projects = [
     description:
       "A machine learning classification project predicting loan approval decisions using Random Forest. Includes data preprocessing, EDA, feature engineering, data visualization, model training, model evaluation, and deployment-ready structure.",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMmm9kdTw6k77aDcmeWj-CZ66BG_uzHU4pw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdXOJk8rWQ6r02itFvPJPkE5BBa3ygVndNnQ&s",
     tags: [
       "Python",
       "Pandas",
@@ -219,7 +219,7 @@ export const projects = [
     description:
       "Java and MySQL-based metro management application enabling users to plan routes, track schedules, and calculate fares. Designed for efficiency and reliability with strong DSA-based logic.",
     image:
-      "https://cdn.dribbble.com/userupload/16327077/file/original-38a788ec7b2af0b0ea2f758d6b3960e0.png?format=webp&resize=400x300&vertical=center",
+      "https://assets.materialup.com/uploads/3210548e-4ef9-45e0-8f48-13af92a2f795/preview.jpg",
     tags: [
       "Java",
       "Java OOPs",
