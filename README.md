@@ -2,16 +2,15 @@
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
 ### Here are some images for instance.
-![Screenshot 2024-05-03 174410](https://github.com/Mukesh017/Mukesh017.github.io/assets/94400140/0d18f7c7-b2e6-4ec6-b1d8-db8f3bfdeb30)
-![Screenshot 2024-05-03 175204](https://github.com/Mukesh017/Mukesh017.github.io/assets/94400140/b0e3f4ba-18d3-4dfb-a091-782325adb281)
-![Screenshot 2024-05-03 175301](https://github.com/Mukesh017/Mukesh017.github.io/assets/94400140/e1fd4c1f-eb82-46d0-a26b-1971da435a63)
-![Screenshot 2024-05-03 175333](https://github.com/Mukesh017/Mukesh017.github.io/assets/94400140/2461f0d7-5df8-4e85-ac99-a97477a16608)
-![Screenshot 2024-05-03 175406](https://github.com/Mukesh017/Mukesh017.github.io/assets/94400140/0cc4f904-a318-4c56-9494-e36e8cc25e46)
-![Screenshot 2024-05-03 175442](https://github.com/Mukesh017/Mukesh017.github.io/assets/94400140/d9950c0a-4bd6-40fc-8258-6efb00364a8d)
-![Screenshot 2024-05-03 175508](https://github.com/Mukesh017/Mukesh017.github.io/assets/94400140/79932575-dc61-409b-b0aa-ff0523ff2b1a)
-![Screenshot 2024-05-03 175532](https://github.com/Mukesh017/Mukesh017.github.io/assets/94400140/78c99699-539c-459b-8313-069439b31e5e)
-![Screenshot 2024-05-03 175602](https://github.com/Mukesh017/Mukesh017.github.io/assets/94400140/bebcae42-cc4b-4921-aefc-d8b61831653d)
-![Screenshot 2024-05-03 175629](https://github.com/Mukesh017/Mukesh017.github.io/assets/94400140/66d1fbbc-0a2b-4f0e-a53d-13a7f0bc15e5)
+<img width="1919" height="937" alt="SS1" src="https://github.com/user-attachments/assets/92a43267-5850-47fb-9985-ed7faaad3f1f" />
+<img width="1918" height="933" alt="SS2" src="https://github.com/user-attachments/assets/877a2d97-314d-4b8e-92ae-febc2aa7907a" />
+<img width="1919" height="640" alt="SS3" src="https://github.com/user-attachments/assets/4d475a47-ce77-40ad-9d4a-87476c23acff" />
+<img width="1919" height="933" alt="SS4" src="https://github.com/user-attachments/assets/15cbc26f-90c1-48e6-9693-cd3757c1f29f" />
+<img width="1918" height="936" alt="SS5" src="https://github.com/user-attachments/assets/a3d15ff7-a908-405f-9af9-a9b0d9cba738" />
+<img width="1919" height="933" alt="SS6" src="https://github.com/user-attachments/assets/470d3107-0e9b-4ac7-b556-334c378edcea" />
+<img width="1919" height="933" alt="SS7" src="https://github.com/user-attachments/assets/235ad943-12dc-4414-a010-970006bef1ae" />
+<img width="1919" height="933" alt="SS8" src="https://github.com/user-attachments/assets/93e61991-d911-4d6a-a174-1b5cbf7d9336" />
+<img width="1919" height="933" alt="SS9" src="https://github.com/user-attachments/assets/12e2a028-30e3-4847-a022-d04e4f260482" />
 
 ## Table of Contents
 - [Introduction](#introduction)
