@@ -1,5 +1,7 @@
-# My Portfolio
-Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
+🌐 Mukesh Kumar — Portfolio
+
+Welcome to the official repository of my personal portfolio website.
+This site showcases my work as a Data Analyst, Data Scientist, and BI Developer, along with my experience, skills, and featured projects.
 
 ### Here are some images for instance.
 <img width="1919" height="937" alt="SS1" src="https://github.com/user-attachments/assets/92a43267-5850-47fb-9985-ed7faaad3f1f" />
@@ -12,41 +14,124 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 <img width="1919" height="933" alt="SS8" src="https://github.com/user-attachments/assets/93e61991-d911-4d6a-a174-1b5cbf7d9336" />
 <img width="1919" height="933" alt="SS9" src="https://github.com/user-attachments/assets/12e2a028-30e3-4847-a022-d04e4f260482" />
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+📑 Sections Included
 
-## Introduction
-My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.
+Your portfolio includes the following main sections (exactly as seen in screenshots):
 
-## Features
-- About Me: An overview of my background, skills, and experiences.
-- Projects: A collection of my notable projects with descriptions, screenshots, and links.
-- Skills: A list of my technical skills and proficiencies.
-- Resume: A link to download my resume.
-- Contact: A form to send me messages or inquiries.
+1. Home / Hero
 
-## Technologies Used
-- React.js: A JavaScript library for building user interfaces.
-- HTML5 & CSS3: Markup and styling languages for building web pages.
-- JavaScript: A programming language for adding interactivity to web applications.
-- Style-Components: A CSS framework for creating responsive and mobile-first designs.
-- Git: A version control system for tracking changes and collaborating on projects.
-- GitHub Pages: A platform for hosting and deploying web applications.
+Name, headline, description
 
-## Installation
-To run this portfolio locally, follow these steps:
+Buttons: Hire Me, Download Resume
 
-1. Clone the repository: `git clone https://github.com/Mukesh017/Mukesh017.github.io.git`
-2. Navigate to the project directory: `cd mukesh-keshri-portfolio`
-3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:3000`
+Profile image
+
+2. About Me
+
+Intro paragraph
+
+Experience, education, interests
+
+Statistics (Projects, Experience, Technologies, Tools)
+
+3. Experience
+
+A detailed card for:
+
+Product-Based Startup — (Current)
+Role: Data Analyst / BI Developer
+Tools: SQL, Python, Power BI, DAX, ETL, Excel
+
+Includes timeline view
+
+4. Projects
+
+Card-based layout featuring:
+
+Random Forest Loan Approval Project
+
+Sales Analytics Project (Power BI)
+
+Other ML & Analytics projects (as per screenshots)
+Each card contains:
+
+Thumbnail
+
+Description
+
+“View Project” button
+
+5. Skills
+
+Categorized skills section:
+
+Programming → Python, SQL
+
+Data & ML → Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+Business Intelligence → Power BI, DAX, Data Modelling
+
+Tools & Platforms → Git, GitHub, VS Code, Jupyter
+
+Cloud (optional) → Azure basics
+
+Icons for each skill (as seen in screenshots)
+
+6. Contact
+
+Email form
+
+Social media links
+
+Footer credits
+
+🛠️ Tech Stack
+
+Your portfolio is built using:
+
+Frontend
+
+React.js
+
+JavaScript (ES6+)
+
+Styled Components
+
+HTML5 + CSS3
+
+React Router
+
+Build & Deployment
+
+Netlify (Live Deployment)
+
+GitHub (Source Code)
+
+Other Tools
+
+VS Code
+
+Git
+
+gh-pages (optional, if using GitHub Pages)
+
+🚀 Getting Started (Run Locally)
+# Clone repo
+git clone https://github.com/Mukesh017/Mukesh017.github.io.git
+
+# Navigate
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Start dev server
+npm start
+
+
+Open in browser:
+
+http://localhost:3000
 
 ## Usage
 After installing and running the project locally, you can navigate through the different sections of the portfolio using the navigation menu. Explore the About Me section to learn more about my background and skills. Visit the Projects section to see detailed information about my projects, including descriptions and screenshots. Use the Contact section to send me a message or inquiry.
